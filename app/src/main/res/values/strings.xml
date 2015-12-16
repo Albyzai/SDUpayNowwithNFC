@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SDUpay</string>
+    <string name="cart_title">Indkøbsliste</string>
+    <string name="fav_title">Favoritter</string>
+    <string name="hist_title">Historik</string>
+    <string name="title_activity_app">AppActivity</string>
+</resources>
